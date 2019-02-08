@@ -1,7 +1,7 @@
 ##
 It shows the concert information of the singer ARIANA GRANDE.
 ###
-Pure front-end web application using React.
+Pure front-end single page web application using React.
 ###
 Published on: http://abiding-interest.surge.sh/
 
