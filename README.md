@@ -5,4 +5,4 @@ Pure front-end web application using React.
 ###
 Published on: http://abiding-interest.surge.sh/
 
-![The Venue](http://github.com/cca2016/VenueMusic/raw/master/website.jpg)
+![The Venue](https://raw.githubusercontent.com/cca2016/VenueMusic/master/website.jpg)
